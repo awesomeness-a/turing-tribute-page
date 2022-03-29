@@ -10,6 +10,13 @@ body {
     display: grid;
   }
 
+@media only screen and (max-width: 768px) {
+    body {
+        width: 100%;
+        display: grid;
+    }
+}
+
   #main {
       margin-bottom: 50px;
   }
