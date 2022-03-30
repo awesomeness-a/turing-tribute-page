@@ -29,6 +29,9 @@ body {
       #main #footer {
           margin: 0;
       }
+      body {
+          font-size: 1.2rem;
+      }
   }
   
   p {
