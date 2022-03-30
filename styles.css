@@ -12,12 +12,14 @@ body {
     font-size: 1rem;
     line-height: 1.5;
     display: grid;
+    cursor: url('dot.png'), auto;
   }
 
   #main {
       margin-left: 150px;
       margin-right: 350px;
       margin-bottom: 50px;
+      cursor: url('dot.png'), auto;
   }
 
   @media (max-width: 460px) {
